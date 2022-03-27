@@ -1,4 +1,4 @@
-# Lesson-6-and-Lesson-7
+# Lesson-6
 //Lesson 6 exercise 1
 using System;
 
